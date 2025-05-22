@@ -73,7 +73,7 @@ export default function index() {
         <Text style={{
             fontSize:15,
             fontWeight:'bold',
-        }}>Trendyol Go Hızıyla</Text>
+        }}>Food Ordering Hızıyla</Text>
         <TouchableOpacity>
                   <Text style={{
                     fontSize: 12,
